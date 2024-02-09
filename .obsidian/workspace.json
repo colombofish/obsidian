@@ -181,7 +181,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTML.md",
+                "file": "Node.md",
                 "mode": "source",
                 "source": false
               }
@@ -254,7 +254,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTML.md",
+                "file": "Node.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -271,7 +271,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HTML.md",
+                "file": "Node.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -294,7 +294,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HTML.md"
+                "file": "Node.md"
               }
             }
           }
@@ -317,13 +317,13 @@
   },
   "active": "73106183f6a4a46f",
   "lastOpenFiles": [
-    "JavaScript p1.md",
-    "JavaScript p2.md",
-    "jQuery.md",
-    "Logger.md",
-    "Node.md",
-    "Web Designing Priciples.md",
     "Pasted image 20240113085946.png",
+    "Web Designing Priciples.md",
+    "Node.md",
+    "Logger.md",
+    "jQuery.md",
+    "JavaScript p2.md",
+    "JavaScript p1.md",
     "HTML.md",
     "Git.md",
     "Express.md",
