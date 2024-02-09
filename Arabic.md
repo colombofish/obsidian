@@ -29,4 +29,18 @@
 هذا  - (haazaa) 'this' for male; هذه - (haazihi) 'this' for female
 ذالك - that (male); تلك - (thilk) that (female)
 حقا - (haqqan) it's true. Or with a question sound to ask if it's true. 
-داءما - always
+داءما – always (daa-iman)
+انتبه – (inthabeh) Watch out (for male)! انتبهي – (inthabehi) for female
+بالصحة والعافية – (bis sihhathi wal aafiyah) wishing good health and well being when you eat food like someone give you a treat or you give a treat
+جيد – (jayyid) {هاذا جيد – this is good}
+ليس – not (this can be used with adjective such as not good etc) {ليس جميل – not beautiful}
+كل – (kull – all; kulla yawm – every day; kull Tha’am – all food)
+الان – (al aan – now)
+ان – (anna – that, which is used after a verb like I saw that, I know that [اعرف ان – a’rifu anna] etc.)
+كثيرقليل – little many
+خط – (khath) line
+بنت – girl (binth)
+كرسي – (kursiyy) chair
+بن – (bun, accented as u) for coffee. 
+بنّي – (bunniy) brown color
+Letters having head and tail.
