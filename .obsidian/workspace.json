@@ -186,9 +186,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8b1668c4813faecd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Express.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 14
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -254,7 +266,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Arabic.md",
+                "file": "Express.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -271,7 +283,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Arabic.md",
+                "file": "Express.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -294,7 +306,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Arabic.md"
+                "file": "Express.md"
               }
             }
           }
@@ -315,23 +327,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "73106183f6a4a46f",
+  "active": "8b1668c4813faecd",
   "lastOpenFiles": [
+    "Express methods/Express Static routes.md",
+    "JavaScript p1.md",
+    "Arabic.md",
+    "Express.md",
+    "Express methods",
     "Node.md",
     "Pasted image 20240113085946.png",
     "Web Designing Priciples.md",
     "Logger.md",
     "jQuery.md",
     "JavaScript p2.md",
-    "JavaScript p1.md",
     "HTML.md",
     "Git.md",
-    "Express.md",
     "DOM.md",
     "CSS.md",
     "Cool tips.md",
     "Bootstrap.md",
-    "Arabic.md",
     "Git 1.md",
     "[.md",
     "Law of inertia.md",

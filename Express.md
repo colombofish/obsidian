@@ -32,9 +32,9 @@ So, instead of 'node index.js' use 'nodemon index.js'. For that, install
 Targeting Endpoints using '/Endpoint'
 
 To test the end points, we use Postman coz the GET responses are only usually visible in a browser.
-*Express Middleware*
-Before we send results to the requests, there could be multiple processes carried out in the middle such as a) login, and authorize, b) preparing the date before processing, c) verifying the requester, identifying the status of the request, d) error handling, etc.
-- a commonly used middleware is "Body Parser". This is used mostly in html forms. Ex:
+*__Express Middleware__*
+Before we send results to the requests, there could be multiple processes carried out in the middle such as a) login, authorize, b) preparing the date before processing, c) verifying the requester, identifying the status of the request, d) error handling, etc.
+- a commonly used middleware is "Body Parser". This belongs to the category b) above. This is used mostly in html forms. Ex:
 -   <form action="/login" method="post">
     <label for="email">Email</label>
     <input type="email" name="email" required>
@@ -42,7 +42,7 @@ Before we send results to the requests, there could be multiple processes carrie
     <input type="password" name="password" required>
     <input type="submit" value="Submit">
   </form>
-*We put above forms or thing which not going to be changed, and also exposed to the public in a separate folder 'public'*
+*We put above form html file or thing which not going to be changed, and also exposed to the public in a separate folder ex: 'public'*
 Now, if we wanna send a file as response to a client's request, we can use 'res.sendFile()' method, which requires an exact path or an absolute path.
 const app = express();
 app.get("/", (req, res) => {
@@ -50,3 +50,6 @@ app.get("/", (req, res) => {
 });
 *install body parser*
 *__ and then use app.post("/submit", (req, res) => () {}) to handle the post request through app.use(bodyParser.urlencoded({ extended: true }));*
+Basically, anything put through the form (any number of key/value pairs, will be sent in the body as an object)
+Commonly used logging middleware is 'morgan'
+=> Next module Logger
