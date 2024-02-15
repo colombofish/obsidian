@@ -181,7 +181,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Arabic.md",
+                "file": "Git.md",
                 "mode": "source",
                 "source": false
               }
@@ -193,14 +193,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Express.md",
+                "file": "Bootstrap.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5972d85fbcab60e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "EJS (Embedded JS).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 15
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -266,7 +278,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Express.md",
+                "file": "Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -283,7 +295,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Express.md",
+                "file": "Git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -306,7 +318,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Express.md"
+                "file": "Git.md"
               }
             }
           }
@@ -327,25 +339,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8b1668c4813faecd",
+  "active": "73106183f6a4a46f",
   "lastOpenFiles": [
-    "Express methods/Express Static routes.md",
-    "JavaScript p1.md",
+    "EJS (Embedded JS).md",
+    "Cool tips.md",
     "Arabic.md",
-    "Express.md",
-    "Express methods",
-    "Node.md",
     "Pasted image 20240113085946.png",
-    "Web Designing Priciples.md",
+    "Node.md",
     "Logger.md",
     "jQuery.md",
     "JavaScript p2.md",
+    "JavaScript p1.md",
     "HTML.md",
     "Git.md",
+    "Express.md",
     "DOM.md",
     "CSS.md",
-    "Cool tips.md",
     "Bootstrap.md",
+    "Express methods/Express Static routes.md",
+    "Express methods",
+    "Web Designing Priciples.md",
     "Git 1.md",
     "[.md",
     "Law of inertia.md",

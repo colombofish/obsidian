@@ -48,8 +48,13 @@ const app = express();
 app.get("/", (req, res) => {
   res.sendFile(__dirname + "/public/index.html");
 });
+app.use()__ function allows you to add new middleware to your Express app.
+app.use((req, res, next) => {
+//here your middleware relevant code
+next() // this to call next middleware
+})
 *install body parser*
 *__ and then use app.post("/submit", (req, res) => () {}) to handle the post request through app.use(bodyParser.urlencoded({ extended: true }));*
 Basically, anything put through the form (any number of key/value pairs, will be sent in the body as an object)
-Commonly used logging middleware is 'morgan'
+Commonly used logging middleware is 'morgan', which is an HTTP req logger for Node.
 => Next module Logger

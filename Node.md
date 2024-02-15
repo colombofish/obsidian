@@ -18,10 +18,12 @@ fs.readFile('text.txt', 'utf8', (err, data) => { // if not 'utf8' meaning string
 *Node Package Manager - npm*
 npm is bundled along with node. So, we can initialize with 'node init' for the first time using 'npm init' to initialize the project. This will create the package.json the config file. Provide basic info such as pkg name, description etc. on the interactive cmd line. Next, we can install an npm pkg using 'install i' cmd, where i is short for install. We can find the pkgs in https://npmjs.com
 ex: 'npm install sillyname'
+ex2: 'npm i' //this installs all dependencies found in package.json
 *Above require is from the Common JS* (CJS)
 From Node version 12 onwards, we can use ESM (Ecma Script Module), which uses 'import' keyword instead of 'require', which standardizes both front, back-ends.
 To use ESM, we need to add '"type": "module"', best after the "main".. in the package.json
 Package library: https://www.npmjs.com/
+
 
 => Next module Express
 => Next module Logger

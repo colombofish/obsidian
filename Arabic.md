@@ -43,4 +43,12 @@
 كرسي – (kursiyy) chair
 بن – (bun, accented as u) for coffee. 
 بنّي – (bunniy) brown color
-Letters having head and tail.
+Letters having head and tail. ج ح خ س ش ص ض and 
+سن - (sin) age
+بيض - (Baydh) eggs
+Next set of letters having head and tail: ط ظ ع غ ف ق ل م
+ملح - (malh or milh) salt
+خط - (khathth) line or a telephone line
+علم - (alam) flag
+ظل - (zhill) shadow
+مطعم - (matham) rest
