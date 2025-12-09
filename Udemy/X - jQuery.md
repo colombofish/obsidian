@@ -1,4 +1,6 @@
-JScript most popular library.
+# Seems to be obsolete. So forget it. 
+JScript is the most popular library, introduced to reduce the length of coding.
+Attach the CDN link from jquery.com/download to the main page (copy the script fragment).
 ex: document.querySelector("h1") can be written using jQuery as 
 jQuery("h1") or can be written as $("h1")
 ex1: $("h1").css("color", "red"); // the same thing below, but with some error handling in case if the script didn't load yet. 

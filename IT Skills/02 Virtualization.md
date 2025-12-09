@@ -1,0 +1,4 @@
+Basically, virtualization is used to make use of a power of of existing server hardware, so that we can split it's power and use for multiple features, roles and services. 
+One of the things to note is 'use Thin provisioned option' to allocate hard disk space, so that it won't consume the max capacity mentioned. 'Thick provisioned' option could be used for dB servers or similar.
+
+In a Corp network, Windows Defende Firewall is disabled and they use their own FW systems. Also, when an image (the server image) is given, but it has local FW, it may create issues when using that setup on multiple machines or servers. 

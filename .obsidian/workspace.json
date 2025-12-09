@@ -13,10 +13,40 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaScript p1.md",
+                "file": "Udemy/3-Web Designing Priciples.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "3-Web Designing Priciples"
+            }
+          },
+          {
+            "id": "ef6b0b64034577b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Udemy/9 EJS (Embedded JS).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "9 EJS (Embedded JS)"
+            }
+          },
+          {
+            "id": "240a49abf25cba79",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Udemy/9 EJS (Embedded JS).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "9 EJS (Embedded JS)"
             }
           },
           {
@@ -25,10 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cool tips.md",
+                "file": "Express methods/Express Static routes.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Express Static routes"
             }
           },
           {
@@ -40,7 +72,9 @@
                 "file": "HTML.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "HTML"
             }
           },
           {
@@ -52,7 +86,9 @@
                 "file": "CSS.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "CSS"
             }
           },
           {
@@ -64,7 +100,9 @@
                 "file": "Web Designing Priciples.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Web Designing Priciples"
             }
           },
           {
@@ -76,7 +114,9 @@
                 "file": "JavaScript p1.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "JavaScript p1"
             }
           },
           {
@@ -88,7 +128,9 @@
                 "file": "JavaScript p1.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "JavaScript p1"
             }
           },
           {
@@ -100,7 +142,9 @@
                 "file": "DOM.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "DOM"
             }
           },
           {
@@ -112,7 +156,9 @@
                 "file": "jQuery.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "jQuery"
             }
           },
           {
@@ -124,7 +170,9 @@
                 "file": "jQuery.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "jQuery"
             }
           },
           {
@@ -136,7 +184,9 @@
                 "file": "JavaScript p2.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "JavaScript p2"
             }
           },
           {
@@ -145,10 +195,54 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Arabic.md",
+                "file": "Udemy/X-L.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "X-L"
+            }
+          },
+          {
+            "id": "f4d3bd35c603eeac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Udemy/GIMP.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "GIMP"
+            }
+          },
+          {
+            "id": "cbd708b5a8180015",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Udemy/3-JavaScript p1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3-JavaScript p1"
+            }
+          },
+          {
+            "id": "d09c28b307247078",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Udemy/DOM.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "DOM"
             }
           },
           {
@@ -157,22 +251,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Node.md",
+                "file": "Udemy/8 Express.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "8 Express"
             }
           },
           {
             "id": "2978a13e221e1030",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Node.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           },
           {
@@ -181,10 +275,82 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git.md",
+                "file": "Git/Git troubleshoot.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Git troubleshoot"
+            }
+          },
+          {
+            "id": "749aba4bd2caab7e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Udemy/10 Git, GitHub.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "10 Git, GitHub"
+            }
+          },
+          {
+            "id": "56993c22cb5ca0de",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Git/Git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Git"
+            }
+          },
+          {
+            "id": "796e2d56a746f5b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Arabic.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Arabic"
+            }
+          },
+          {
+            "id": "e7d933cf6f0bb4d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Git/Git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Git"
+            }
+          },
+          {
+            "id": "5b3731a6a6c93f28",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Express methods/Express.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Express"
             }
           },
           {
@@ -196,7 +362,9 @@
                 "file": "Bootstrap.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Bootstrap"
             }
           },
           {
@@ -208,11 +376,137 @@
                 "file": "EJS (Embedded JS).md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "EJS (Embedded JS)"
+            }
+          },
+          {
+            "id": "317a78ecfa846e32",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Web Designing Priciples.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Web Designing Priciples"
+            }
+          },
+          {
+            "id": "d5916307757c1dfd",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.12"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.5.12"
+            }
+          },
+          {
+            "id": "a252e14dba87c4ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Web Designing Priciples.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Web Designing Priciples"
+            }
+          },
+          {
+            "id": "e50d175f782b6848",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CSS.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "CSS"
+            }
+          },
+          {
+            "id": "f7c153c81dcf9a50",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Arabic.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Arabic"
+            }
+          },
+          {
+            "id": "7e069fe6a2e90772",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CSS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CSS"
+            }
+          },
+          {
+            "id": "4a96e1dcb9b0ff8f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Udemy/X-L.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "X-L"
+            }
+          },
+          {
+            "id": "1e18fe55eb85d201",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "EJS (Embedded JS).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "EJS (Embedded JS)"
+            }
+          },
+          {
+            "id": "f8e3c59c116505af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "main/Test.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Test"
             }
           }
         ],
-        "currentTab": 14
+        "currentTab": 35
       }
     ],
     "direction": "vertical"
@@ -231,8 +525,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -247,7 +544,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -255,7 +554,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -278,15 +579,17 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git.md",
-                "collapseAll": false,
+                "file": "Express methods/Express.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
+                "backlinkCollapsed": true,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Express"
             }
           },
           {
@@ -295,10 +598,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git.md",
+                "file": "Express methods/Express.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Express"
             }
           },
           {
@@ -308,8 +613,12 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
-              }
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -318,8 +627,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git.md"
-              }
+                "file": "Express methods/Express.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Express"
             }
           }
         ]
@@ -331,6 +645,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -339,33 +654,51 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "73106183f6a4a46f",
+  "active": "85583a1d80d4988d",
   "lastOpenFiles": [
-    "EJS (Embedded JS).md",
-    "Cool tips.md",
-    "Arabic.md",
-    "Pasted image 20240113085946.png",
-    "Node.md",
-    "Logger.md",
-    "jQuery.md",
-    "JavaScript p2.md",
-    "JavaScript p1.md",
-    "HTML.md",
-    "Git.md",
-    "Express.md",
-    "DOM.md",
-    "CSS.md",
-    "Bootstrap.md",
     "Express methods/Express Static routes.md",
-    "Express methods",
-    "Web Designing Priciples.md",
-    "Git 1.md",
-    "[.md",
-    "Law of inertia.md",
-    "Three laws of motion.md",
-    "Isaac Newton.md",
-    "Obsidian.md",
-    "create a link.md",
-    "Welcome.md"
+    "main/Test.md",
+    "main",
+    "Ahmediya/Seal of Prophets.md",
+    "Pasted image 20251207093048.png",
+    "Ahmediya/Tadhkirah.md",
+    "Ahmediya/Imam Mahdi.md",
+    "Ahmediya/Fatimah (ra).md",
+    "Ahmediya/Clarifications.md",
+    "Ahmediya/Biography.md",
+    "Ahmediya/Isa (as) from Sahih Sunans.md",
+    "IT Skills/03 Domain related Tools and info.md",
+    "Ahmediya",
+    "IT Skills/02 Virtualization.md",
+    "IT Skills/01 Introduction.md",
+    "Udemy/4.2 JavaScript p2.md",
+    "Udemy/4.1 JavaScript p1.md",
+    "Udemy/11 API.md",
+    "Udemy/2-CSS.md",
+    "Arabic.md",
+    "Udemy/9 EJS (Embedded JS).md",
+    "IT Skills",
+    "Udemy/8 Express.md",
+    "Udemy/1-HTML.md",
+    "Udemy/7 Node.md",
+    "Udemy/5 DOM.md",
+    "Udemy/3-Web Designing Priciples.md",
+    "Udemy/13 PostgreSQL.md",
+    "Udemy/Cool tips.md",
+    "Pasted image 20251003120605.png",
+    "Pasted image 20240810124907.png",
+    "Pasted image 20240113085946.png",
+    "Pasted image 20251003120422.png",
+    "Pasted image 20250927155817.png",
+    "Pasted image 20240816073637.png",
+    "Pasted image 20240816072633.png",
+    "Pasted image 20240811165419.png",
+    "Udemy/DOM",
+    "Udemy",
+    "Postgres",
+    "dBMS",
+    "Git",
+    "GitTroubleshooting",
+    "Express methods"
   ]
 }

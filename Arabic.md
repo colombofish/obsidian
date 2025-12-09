@@ -5,7 +5,7 @@
 كيف حالك
 انابخير
 مع السلام
-الي اللقاء - ila lliqa'
+الي اللقاء - ila lliqa'-see you
 شكرا – thanks
 شكرا جزيلا – thanks a lot
 ..شكرا غلي – thanks for ..(ex coffee)
@@ -17,7 +17,7 @@
 من فضلك – please (min fadhlak for male fadhlik for female or fadhlikum for plural)
 النافذة – (an naafizah – The window)
 افتح – (ifthah) open for Male; افتحي – (ifthahi) for Female
-اغلق – (ighlaq) open for Male; اغلق– (ighliqi) for Female
+اغلق – (ighlaq) close for Male; اغلق– (ighliqi) for Female
 مرحبا – hello
 افهم – I understand
 انا ا سف – (Ana Aasif) I am sorry (male) – انا اسفة (Asfah for female)
@@ -37,7 +37,7 @@
 كل – (kull – all; kulla yawm – every day; kull Tha’am – all food)
 الان – (al aan – now)
 ان – (anna – that, which is used after a verb like I saw that, I know that [اعرف ان – a’rifu anna] etc.)
-كثيرقليل – little many
+كثيرقليل – little, many
 خط – (khath) line
 بنت – girl (binth)
 كرسي – (kursiyy) chair
@@ -52,3 +52,19 @@ Next set of letters having head and tail: ط ظ ع غ ف ق ل م
 علم - (alam) flag
 ظل - (zhill) shadow
 مطعم - (matham) rest
+Pirate letters (meaning they don't connect to others at the beginning and have one eye) - ا د ذ ر ز و لا 
+سرير - (sareer) bed
+زيت - (zayth) oil
+ارز - (urz) rice
+ذيل - (zayl) tail
+final group of letters - ك ه ة ء 
+هرم - (haram) - pyramid
+سؤال - (su aal) question
+راءع - (Raa i i') wonderful
+مهم - (muhim) important
+مكتب - (makthab) office/desk
+the - in arabic ال. The reading depends and categorized as laam shamsiyya and laam qamariyya
+الالوان - the colors
+الغيوم - (al ghuyoom) the clouds; الملح - the salt
+الورد - (al ward) the flowers
+الضيف - (addhayf) the guest

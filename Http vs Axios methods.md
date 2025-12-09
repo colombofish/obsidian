@@ -1,0 +1,1 @@
+import axios from "axios" // Axios simplifies sending and receiving web requests instead of solely using http methods.

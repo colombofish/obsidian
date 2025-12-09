@@ -28,3 +28,5 @@ app.delete('/user', (req, res) => {
 app.listen(port, () => {
   console.log(`Server running on port ${port}`);
 })
+###### Assigning static files location:
+`app.use(express.static("public"));`
