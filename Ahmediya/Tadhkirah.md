@@ -13,3 +13,6 @@ pg 48 (About 1881), in footnote, he (Mirza) claims he has mixt of descent of Fat
 p50, "God has intended to bring two women to me in marriage—the
 first time a virgin and the second time a widow."\[check Tiryaqul-Qulub, p. 34, Ruhani Khaza’in, vol. 15, p. 201]
 p 52, he himself referred as Mary at the beginning as weak without financial means, and then became Jesus later. However, the verse "Huzzee ilaiki(F)" seems to have changed to "Huzzee ilaika(M)", but name ramains Mary (F).
+p 60, "Say: I have with me proof from Allah, then will you believe or not? Say: I have with me proof from Allah, then will you accept it or not?" <= Not sure, what's the proof is he talking about.
+most prophecies are about receiving money, and someone if he will believe in his mission or not.
+resume from p 77
